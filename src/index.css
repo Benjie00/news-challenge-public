@@ -1,0 +1,19 @@
+body {
+  margin: auto;
+  max-width: 400px;
+  background-color: #f5efea;
+  
+  font-family: 'Times New Roman', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+
+.feed{
+  background-color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

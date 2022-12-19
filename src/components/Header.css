@@ -1,0 +1,24 @@
+
+.title {
+    text-align: center;
+    padding-left: 52px;
+}
+
+#logo {
+   float: left;
+}
+
+.header {
+    align-items: center;
+    overflow: hidden;
+    display: flex;
+    margin-bottom: 18px;
+    height: 40px;
+
+    border-color: black;
+    border-style: solid;
+    border-radius: 3px;
+    padding: 5px;
+    top: 9px;
+    position: relative;
+}
